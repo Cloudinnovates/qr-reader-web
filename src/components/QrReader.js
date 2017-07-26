@@ -49,6 +49,7 @@ class QrReader extends Component {
         <ReactQrReader
           delay={this.state.delay}
           style={qrStyle}
+          facingMode="rear"
           onError={this.handleError}
           onScan={this.handleScan}
         />
