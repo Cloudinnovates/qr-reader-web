@@ -1,7 +1,7 @@
 {
   "name": "qr_code_web",
   "version": "0.1.0",
-  "homepage": "https://kmesic.github.io/qr-reader-web",
+  "homepage": "https://kmesic.github.io/",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
